@@ -1,0 +1,36 @@
+
+.container {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+#btn {
+  width: 40%;
+  background: #fcdb9d;
+  border-radius: 240px 15px 100px 15px / 15px 200px 15px 185px;
+  margin: 30px auto;
+  text-align: center;
+  line-height: 100px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 10px 0 #fdd997;
+  user-select: none;
+  position: absolute;
+  top: 120px;
+  left: 60px;
+}
+
+#btn:hover {
+  opacity: 0.9;
+}
+
+#btn:active {
+  box-shadow: 0 5px 0 #fdd997;
+  margin-top: 35px;
+}
+
