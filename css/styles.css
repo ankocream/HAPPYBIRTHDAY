@@ -8,7 +8,7 @@ img {
 }
 
 #btn {
-  width: 40%;
+  width: 50%;
   background: #fcdb9d;
   border-radius: 240px 15px 100px 15px / 15px 200px 15px 185px;
   margin: 30px auto;
@@ -16,7 +16,7 @@ img {
   line-height: 100px;
   color: #fff;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 48px;
   cursor: pointer;
   box-shadow: 0 10px 0 #fdd997;
   user-select: none;
